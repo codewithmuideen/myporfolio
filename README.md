@@ -1,11 +1,11 @@
 # react_portfolio
-responsive portfolio using react js and tailwind css
+Responsive Portfolio using Vite + React and Tailwind CSS
 
-live preview : https://johnalexportfolio.netlify.app/
+# created by Muideen
 
-1.npm i
+1.npm install
 2.npm run dev
 
-mail: codeaprogram@gmail.com
+#### mail: codewitmui@gmail.com
 
 happy coding :)
